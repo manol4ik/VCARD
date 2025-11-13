@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:De Sousa;Ivan;;;
+FN:Ivan De Sousa
+ORG:Broadcom
+TITLE:Account Director
+EMAIL;TYPE=WORK:ivan.sousa@broadcom.com
+TEL;TYPE=WORK:+55 (11) 986356613
+END:VCARD
