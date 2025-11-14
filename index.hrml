@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow">
   <title>Broadcom LATAM vCards</title>
   <style>
     body {
@@ -41,24 +42,4 @@
     <li><a href="Agustin_Pablo_Bercellini_Molino.vcf">Agustin Pablo Bercellini Molino</a></li>
     <li><a href="Alejandro_Rubio.vcf">Alejandro Rubio</a></li>
     <li><a href="Alejandro_Zermeno.vcf">Alejandro Zermeno</a></li>
-    <li><a href="Andre_Pereira_Brum.vcf">Andre Pereira Brum</a></li>
-    <li><a href="camilo_arango.vcf">Camilo Arango Guaque</a></li>
-    <li><a href="Cecilia_Moreno.vcf">Cecilia Moreno</a></li>
-    <li><a href="Daniele_Koons.vcf">Daniele Koons</a></li>
-    <li><a href="Danilo_Bacca.vcf">Danilo Bacca</a></li>
-    <li><a href="Diana_Jaeger.vcf">Diana Jaeger</a></li>
-    <li><a href="Doug_Dorta.vcf">Doug Dorta</a></li>
-    <li><a href="Gabriela_Gallardo.vcf">Gabriela Gallardo</a></li>
-    <li><a href="Giselle_Arias_Garcia.vcf">Giselle Arias Garcia</a></li>
-    <li><a href="Ivan_De_Sousa.vcf">Ivan De Sousa</a></li>
-    <li><a href="Juan_Souza.vcf">Juan Souza</a></li>
-    <li><a href="Margarida_Mimoso_Malhado.vcf">Margarida Mimoso Malhado</a></li>
-    <li><a href="Moacir_Faria.vcf">Moacir Faria</a></li>
-    <li><a href="Rafael_Camilo.vcf">Rafael Camilo</a></li>
-    <li><a href="Rafael_Perdigao.vcf">Rafael Perdigao</a></li>
-    <li><a href="Raphael_Cavalcanti.vcf">Raphael Cavalcanti</a></li>
-    <li><a href="Xoilmar_Leal.vcf">Xoilmar Leal</a></li>
-    <li><a href="Yanina_Sotro.vcf">Yanina Sotro</a></li>
-  </ul>
-</body>
-</html>
+    <li><a href
