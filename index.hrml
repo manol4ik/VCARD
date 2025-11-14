@@ -1,11 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0; url=vcard.vcf">
-  <title>Redirecting...</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Broadcom LATAM vCards</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #f8f9fa;
+      color: #222;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      color: #cc0000;
+      border-bottom: 2px solid #cc0000;
+      padding-bottom: 0.5rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 0.4rem 0;
+    }
+    a {
+      text-decoration: none;
+      color: #0066cc;
+      font-weight: 500;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
-  <p>Redirecting to vCard...</p>
+  <h1>📇 Broadcom LATAM Contacts</h1>
+  <ul>
+    <li><a href="Agustin_Pablo_Bercellini_Molino.vcf">Agustin Pablo Bercellini Molino</a></li>
+    <li><a href="Alejandro_Rubio.vcf">Alejandro Rubio</a></li>
+    <li><a href="Alejandro_Zermeno.vcf">Alejandro Zermeno</a></li>
+    <li><a href="Andre_Pereira_Brum.vcf">Andre Pereira Brum</a></li>
+    <li><a href="Camilo_Arango_Guaque.vcf">Camilo Arango Guaque</a></li>
+    <li><a href="Cecilia_Moreno.vcf">Cecilia Moreno</a></li>
+    <li><a href="Daniele_Koons.vcf">Daniele Koons</a></li>
+    <li><a href="Danilo_Bacca.vcf">Danilo Bacca</a></li>
+    <li><a href="Diana_Jaeger.vcf">Diana Jaeger</a></li>
+    <li><a href="Doug_Dorta.vcf">Doug Dorta</a></li>
+    <li><a href="Gabriela_Gallardo.vcf">Gabriela Gallardo</a></li>
+    <li><a href="Giselle_Arias_Garcia.vcf">Giselle Arias Garcia</a></li>
+    <li><a href="Ivan_De_Sousa.vcf">Ivan De Sousa</a></li>
+    <li><a href="Juan_Souza.vcf">Juan Souza</a></li>
+    <li><a href="Margarida_Mimoso_Malhado.vcf">Margarida Mimoso Malhado</a></li>
+    <li><a href="Moacir_Faria.vcf">Moacir Faria</a></li>
+    <li><a href="Rafael_Camilo.vcf">Rafael Camilo</a></li>
+    <li><a href="Rafael_Perdigao.vcf">Rafael Perdigao</a></li>
+    <li><a href="Raphael_Cavalcanti.vcf">Raphael Cavalcanti</a></li>
+    <li><a href="Xolimar_Leal.vcf">Xolimar Leal</a></li>
+    <li><a href="Yanina_Sotro.vcf">Yanina Sotro</a></li>
+  </ul>
 </body>
 </html>
